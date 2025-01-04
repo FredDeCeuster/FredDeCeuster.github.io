@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, Leuven Gravity Institute, KU Leuven
+subtitle: Research Scientist - Leuven Gravity Institute, KU Leuven
 
 profile:
   align: right
