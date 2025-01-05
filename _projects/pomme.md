@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Magritte
+title: pomme
 description: A modern software library for <br> 3D Radiative Transfer and <br> Synthetic Observations
 img: assets/img/magritte.png
 importance: 1
