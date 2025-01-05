@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist – <a href="https://www.kuleuven.be/lgi">Leuven Gravity Institute, KU Leuven</a>
+subtitle: Computational Physicist – <a href="https://www.kuleuven.be/lgi">Leuven Gravity Institute, KU Leuven</a>
 
 profile:
   align: right
