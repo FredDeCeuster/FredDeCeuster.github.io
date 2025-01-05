@@ -24,25 +24,16 @@
       year: 2021 - 2022
 
     - title: PhD in Computational Astrophysics
-      institution: University College London (UCL), UK
+      institution: University College London, UK
       year: 2017 - 2021
     
-    - title: MSc in Theoretical Physics
-      institution: Institute for Theoretical Physics, KU Leuven, Belgium
-      year: 2014 - 2016
-    
-    - title: BSc - Major Physics, Minor Mathematics
-      institution: KU Leuven, Belgium
-      year: 2011 - 2014
-
-
 - title: Collaborations with Industry
   type: time_table
   contents:
     - title: 6-month internship at Intel
-      institution: Intel Parallel Computing Centre (IPCC), University of Edinburgh, UK
-      year: October 2019
+      institution: Intel Parallel Computing Centre, University of Edinburgh, UK
+      year: 2019
     
     - title: 6-month internship at Intel
-      institution: Intel Parallel Computing Centre (IPCC), University of Edinburgh, UK
-      year: October 2018
+      institution: Intel Parallel Computing Centre, University of Edinburgh, UK
+      year: 2018
