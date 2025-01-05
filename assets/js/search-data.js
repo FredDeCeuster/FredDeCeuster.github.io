@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of my research projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -68,6 +68,11 @@ ninja.data = [{
           description: "A modern software library for  3D Radiative Transfer and  Synthetic Observations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/magritte/";
+            },},{id: "projects-pomme",
+          title: 'pomme',
+          description: "A modern software library for  3D Radiative Transfer and  Synthetic Observations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pomme/";
             },},{
         id: 'social-email',
         title: 'email',
