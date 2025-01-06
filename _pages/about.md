@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Research Scientist at the
 <a href="https://www.kuleuven.be/lgi">Leuven Gravity Institute, KU Leuven</a>.
-My research focuses on developing eﬀicient and quantifiably accurate computational methods to
+My research focuses on developing efficient and quantifiably accurate computational methods to
 simulate complex astrophysical processes, such as relativistic hydrodynamics, radiation transport,
 and chemistry, to allow us to compare our most sophisticated models with our best observations.
 

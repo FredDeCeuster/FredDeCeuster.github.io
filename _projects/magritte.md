@@ -3,6 +3,7 @@ layout: page
 title: Magritte
 description: A modern software library for <br> 3D Radiative Transfer and <br> Synthetic Observations
 img: assets/img/magritte.png
+redirect: https://github.com/Magritte-code/Magritte
 importance: 1
 category: software
 ---
