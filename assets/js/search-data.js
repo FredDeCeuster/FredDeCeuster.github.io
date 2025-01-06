@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "A collection of my publications. (Also available via Google Scholar and ADS.)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -63,14 +63,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-magritte",
+          section: "News",},{id: "projects-mace",
+          title: 'MACE',
+          description: "Machine learning Approach to Chemical Emulation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mace/";
+            },},{id: "projects-magritte",
           title: 'Magritte',
-          description: "A modern software library for  3D Radiative Transfer and  Synthetic Observations",
+          description: "A modern software library for 3D line radiative transfer and synthetic observations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/magritte/";
             },},{id: "projects-pomme",
           title: 'pomme',
-          description: "A modern software library for  3D Radiative Transfer and  Synthetic Observations",
+          description: "Bayesian model reconstruction based on astronomical spectral line observations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pomme/";
             },},{
