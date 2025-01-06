@@ -65,7 +65,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-mace",
           title: 'MACE',
-          description: "A neural surrogate to emulate astrochemical kinetics models.",
+          description: "A neural surrogate model to emulate chemical kinetics in stellar winds around evolved stars.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mace/";
             },},{id: "projects-magritte",
