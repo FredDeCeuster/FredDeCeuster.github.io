@@ -65,7 +65,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-mace",
           title: 'MACE',
-          description: "Machine learning Approach to Chemical Emulation.",
+          description: "A neural surrogate to emulate astrochemical kinetics models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mace/";
             },},{id: "projects-magritte",
