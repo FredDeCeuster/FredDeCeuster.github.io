@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MACE
-description: Machine learning Approach to Chemical Emulation.
+description: A neural surrogate to emulate astrochemical kinetics models.
 img: assets/img/mace.png
 redirect: https://github.com/silkemaes/MACE
 importance: 1
