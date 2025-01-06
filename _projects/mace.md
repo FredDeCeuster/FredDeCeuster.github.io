@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MACE
-description: A neural surrogate to emulate astrochemical kinetics models.
+description: A neural surrogate model to emulate chemical kinetics in stellar winds around evolved stars.
 img: assets/img/mace.png
 redirect: https://github.com/silkemaes/MACE
 importance: 1
