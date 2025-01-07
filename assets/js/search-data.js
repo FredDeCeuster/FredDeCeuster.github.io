@@ -100,6 +100,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/frederik-de-ceuster", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5887-8498", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -111,7 +118,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.kuleuven.be/wieiswie/nl/person/00101884", "_blank");
+          window.open("https://www.kuleuven.be/lgi/members/00101884", "_blank");
         },
       },{
       id: 'light-theme',
