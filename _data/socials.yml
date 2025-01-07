@@ -23,7 +23,7 @@ github_username: FredDeCeuster # your GitHub user name
 linkedin_username: frederik-de-ceuster # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0001-5887-8498 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -41,7 +41,7 @@ scholar_userid: cB_5RssAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://www.kuleuven.be/wieiswie/nl/person/00101884 # work page URL
+work_url: https://www.kuleuven.be/lgi/members/00101884 # work page URL
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
