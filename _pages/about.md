@@ -22,7 +22,7 @@ My research focuses on developing <strong>efficient</strong> and <strong>quantif
 I like to test our understanding of physics by searching for ways to compare our most sophisticated models with our best observations.
 
 As a <strong>Research Scientist</strong> at the [Leuven Gravity Institute](https://www.kuleuven.be/lgi), I'm developing numerical models for sources of gravitational waves.
-Using [probabilistic numerics](https://en.wikipedia.org/wiki/Probabilistic_numerics), I test for our current best theory of gravity: [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)'s theory of [General Relativity](https://en.wikipedia.org/wiki/General_relativity).
+Using [probabilistic numerics](https://en.wikipedia.org/wiki/Probabilistic_numerics), I test our current best theory of gravity: [Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)'s theory of [General Relativity](https://en.wikipedia.org/wiki/General_relativity).
 
 As a <strong>postdoc</strong>, I led the computational research division in the group of [Prof. L. Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) ([KU Leuven](https://www.kuleuven.be/kuleuven/)).
 I obtained a <strong>PhD</strong> in computational astrophysics from [University College London](https://www.ucl.ac.uk/), working with [Revd. Prof. J. Yates](https://www.ucl.ac.uk/physics-astronomy/people/dr-jeremy-yates), [Prof. P. Boyle](https://www2.ph.ed.ac.uk/~paboyle/), and [Prof. J. Hetherington](https://profiles.ucl.ac.uk/6295-james-hetherington). There, I started developing [Magritte](/projects/magritte/): a software library for 3D line radiative transfer and synthetic obsevations.
